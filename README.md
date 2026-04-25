@@ -1,2 +1,4 @@
 # CS-330-3D-Scene
 A project in Visual Studio depicting a 3D scene using OpenGL.
+
+I like to joke that my life motto is "Carefully and with great caution", as that is how I approach most aspects of life. My approach to designing software and developing programs is the same - each step should be planned and double-checked to avoid errors in the long run. However, for this project, I experimented with different positions and rotations. I also practiced creative problem-solving, such as rotating my scene by 30 degrees to avoid doing trigonometry and calculating Euler angles for my complex bird model. Additionally, my increased understanding of how matrices are created and projected in 3-dimensional space allows me to greater appreciate and understand 3D modeling platforms and the code that goes into them.
